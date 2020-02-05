@@ -1,0 +1,1 @@
+grep -v '192.168.2.1' fwBehav.txt > fwBehavIP.txt
